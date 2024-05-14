@@ -1,0 +1,28 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    width: 560px;
+    padding: 25px;
+    border: 1px solid #686767;
+    margin-bottom: 25px;
+}
+
+.formItem{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.input {
+    font-size: 28px;
+    border-radius: 8px;
+}
+
+.formBtn {
+    border: 1px solid #000;
+}
+
+.formBtn:hover{
+    background-color: #686767;
+}

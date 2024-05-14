@@ -1,0 +1,27 @@
+.contact {
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid;
+}
+
+.name {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.number {
+    display: flex;
+        gap: 8px;
+        font-size: 24px;
+}
+
+.deleteBtn {
+    width: 105px;
+}
+
+.deleteBtn:hover {
+    background-color: #3b3b3b;
+}
