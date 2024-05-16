@@ -1,8 +1,9 @@
 .contact {
     padding: 18px;
     display: flex;
-    flex-direction: column;
     justify-content: center;
+    align-items: center;
+    gap: 35px;
     border: 1px solid;
 }
 
@@ -14,8 +15,8 @@
 
 .number {
     display: flex;
-        gap: 8px;
-        font-size: 24px;
+    gap: 8px;
+    font-size: 24px;
 }
 
 .deleteBtn {

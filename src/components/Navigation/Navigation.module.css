@@ -1,0 +1,16 @@
+.link {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 700;
+    color: #644ef2;
+}
+
+.link.active {
+    color: #95b4df;
+}
+
+.link:hover {
+    color: #95b4df;
+}
